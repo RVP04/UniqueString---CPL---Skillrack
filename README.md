@@ -1,4 +1,4 @@
-# UniqueString---CPL---Skillrack
+# Unique String Representations - CPL (11.02.2018)
 <h3 style="color:#003333">Unique String Representations</h3>
  <br> <p>Given a string S print the number of unique string values that can be formed by rearranging the letters in the string S.</p>
 <p><strong>Boundary Condition:</strong><br>
